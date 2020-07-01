@@ -25,14 +25,12 @@
 👤 **Feber Alejandro**
 
 - Github: [@cochabambinoski](https://github.com/cochabambinoski)
-- Twitter: [@cochabambinoski](#)
-- Linkedin: [Feber](#)
+
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
 
 ## Show your support
 
