@@ -1,6 +1,8 @@
 /* eslint-disable import/prefer-default-export */
 import * as variables from './variables';
+/* eslint-disable */
 import * as events from './events';
+/* eslint-enable */
 
 const apiKey = '232c77dae9c5285dea87a38c9c7d0cbf';
 
